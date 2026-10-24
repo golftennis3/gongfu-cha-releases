@@ -20,7 +20,9 @@
 
 Замість цифр — гайвань, яка повільно наповнюється настоєм: листя розкривається, з'являється пара, кришка піднімається, коли час зливати. Для кожного проливу свій час із рецепта. Між проливами — коротка пауза на три вдихи. Коли настій готовий, лунає звук: співоча чаша, дзвіночок, гонг, дерев'яна рибка або дзвоники вітру.
 
-## 143 чаї
+Поки чай настоюється, відлік видно й у шторці сповіщень та на заблокованому екрані, з кнопкою «Злити».
+
+## 149 чаїв
 
 <img src="images/teas.png" alt="Ілюстрації чаїв із каталогу" width="100%">
 
@@ -29,7 +31,13 @@
 - аромат, смак і традиційно описаний ефект;
 - ієрогліфи, піньїнь, регіон.
 
-Можна додати власний чай і власне фото.
+Можна додати власний чай.
+
+## Справжні фото
+
+На сторінці чаю — блок «Як він виглядає»: сухе листя, настій у чашці й розкрите листя після заварювання. Фото поступово додаються в цьому репозиторії (`photos/`) і приходять у програму самі, без оновлення. Автор і ліцензія кожного фото — під ним і в [photos/README.md](photos/README.md).
+
+Можна поставити й свої фото — вони лишаються тільки на твоєму телефоні.
 
 ## Щоденник смаків
 
@@ -62,13 +70,13 @@
 
 1. Відкрий [останню версію](https://github.com/golftennis3/gongfu-cha-releases/releases/latest) з телефона й завантаж файл **GongfuCha-….apk**.
 2. Відкрий його. Android попередить, що програма не з Google Play, — дозволь встановлення з цього джерела.
-3. Готово. Далі **оновлення приходять самі**: коли виходить нова версія, у програмі з'явиться тихий рядок «Доступна версія…», одне натискання — і вона встановиться поверх, зі збереженням усіх даних.
+3. Готово. Далі **оновлення приходять самі**: коли виходить нова версія, у програмі з'явиться тихий рядок «Доступна версія…», одне натискання — і вона встановиться поверх, зі збереженням усіх даних. Перевірити вручну — кнопка «Перевірити» на самому верху налаштувань (⚙ на екрані «Сьогодні»).
 
 Потрібен Android 8.0 або новіший.
 
 ## Приватність
 
-Усе зберігається тільки на твоєму телефоні: жодних акаунтів, аналітики чи реклами. В інтернет програма звертається лише у двох випадках: коли ти відкриваєш «Де купити» (пошук на Prom.ua) і коли перевіряє, чи вийшла нова версія (цей репозиторій на GitHub).
+Усе зберігається тільки на твоєму телефоні: жодних акаунтів, аналітики чи реклами. Твої власні фото теж нікуди не завантажуються. В інтернет програма звертається лише тоді, коли ти відкриваєш «Де купити» (пошук на Prom.ua), і щоб узяти з цього репозиторію на GitHub нову версію та фото чаїв.
 
 Описи ефектів — традиційні враження чаювальників, а не медичні поради.
 
@@ -81,14 +89,16 @@
 **Gongfu Cha** is a quiet app for the Chinese tea ceremony 功夫茶. It guides you from the first infusion to the last, gives a recipe for every tea and remembers what you tasted. No ads, no accounts, no noise.
 
 - **Gaiwan timer.** Instead of numbers, a gaiwan slowly fills with tea: the leaves unfurl, steam rises and the lid lifts when it's time to pour. Each infusion has its own time; between infusions, a short pause for three breaths. A singing bowl, bell, gong, wooden fish or wind chimes tells you when it's ready.
-- **143 teas** — green, white, yellow, oolong, red, pu-erh from different mountains, dark teas, plus Japan, Korea, India and Nepal. Each with a gongfu recipe (temperature, grams, every infusion's time), aroma, taste, traditional effect, hanzi and pinyin. Add your own teas and photos.
+- **Countdown in the notification shade** and on the lock screen while the tea steeps, with a “Pour” button.
+- **149 teas** — green, white, yellow, oolong, red, pu-erh from different mountains, dark teas, plus Japan, Korea, India and Nepal. Each with a gongfu recipe (temperature, grams, every infusion's time), aroma, taste, traditional effect, hanzi and pinyin. Add your own teas.
+- **Real photos** — “How it looks” on the tea page: dry leaf, liquor and spent leaves. Photos are added to this repository over time and reach the app by themselves; each shows its author and licence ([photos/README.md](photos/README.md)). Your own photos stay on your phone.
 - **Tasting journal.** Note flavours for each infusion; the journal keeps every ceremony. Monthly stats, taste-based recommendations, similar teas, a shelf with stock in grams and a wishlist.
 - **Teaware guide** — gaiwan, Yixing, Nixing, Jianshui, Chaozhou, porcelain, glass and kyusu: how each shapes the taste, which teas suit it, how to care for it.
 - **Water without a thermometer**, **where to buy** (in-stock offers from Ukrainian shops, by price per 100 g), **Ukrainian and English**, **backup to a file**.
 
-**Install:** open the [latest release](https://github.com/golftennis3/gongfu-cha-releases/releases/latest) on your phone, download **GongfuCha-….apk**, open it and allow installing from this source. After that, updates arrive inside the app. Android 8.0 or newer.
+**Install:** open the [latest release](https://github.com/golftennis3/gongfu-cha-releases/releases/latest) on your phone, download **GongfuCha-….apk**, open it and allow installing from this source. After that, updates arrive inside the app; to check by hand, tap “Check” at the top of settings. Android 8.0 or newer.
 
-**Privacy:** everything stays on your phone. The app only goes online to look up prices (Prom.ua) when you open “Where to buy”, and to check this repository for a new version.
+**Privacy:** everything stays on your phone, your own photos included. The app only goes online to look up prices (Prom.ua) when you open “Where to buy”, and to fetch new versions and tea photos from this repository.
 
 ---
 
