@@ -12,13 +12,15 @@
 
 **Гунфу Ча** — тиха програма для китайської чайної церемонії 功夫茶. Вона веде тебе від першого проливу до останнього, підказує рецепт для кожного чаю і запам'ятовує, що ти відчував. Ніякої реклами, акаунтів чи зайвого шуму.
 
+<img src="images/screens.png" alt="Екрани програми: Сьогодні, каталог, сторінка чаю, церемонія" width="100%">
+
 ## Таймер-гайвань
 
 <img src="images/timer.png" alt="Таймер у вигляді гайвані: заливаєш воду, чай настоюється, зливаєш настій" width="100%">
 
 Замість цифр — гайвань, яка повільно наповнюється настоєм: листя розкривається, з'являється пара, кришка піднімається, коли час зливати. Для кожного проливу свій час із рецепта. Між проливами — коротка пауза на три вдихи. Коли настій готовий, лунає звук: співоча чаша, дзвіночок, гонг, дерев'яна рибка або дзвоники вітру.
 
-## 129 чаїв
+## 143 чаї
 
 <img src="images/teas.png" alt="Ілюстрації чаїв із каталогу" width="100%">
 
@@ -42,6 +44,12 @@
 <img src="images/teaware.png" alt="Гайвань, ісинська глина, нісін, цзяньшуй, чаочжоу, порцеляна, скло, кюсу" width="100%">
 
 Довідник: гайвань, ісинська глина, нісін, цзяньшуй, чаочжоу, порцеляна, скло і кюсу — що це, як кожен змінює смак, для яких чаїв і як доглядати.
+
+## Теми
+
+<img src="images/themes.png" alt="Теми: Рисовий папір, Нефрит, Ісинська глина, Синя порцеляна" width="100%">
+
+Вечірня чайна, Рисовий папір, Нефрит, Ісинська глина, Синя порцеляна — або свій колір акценту. Можна ввімкнути «акцент — колір чаю»: сторінка кожного чаю набуває кольору його настою. І автоматичне перемикання: світла тема вдень, темна ввечері.
 
 ## І ще
 
@@ -73,7 +81,7 @@
 **Gongfu Cha** is a quiet app for the Chinese tea ceremony 功夫茶. It guides you from the first infusion to the last, gives a recipe for every tea and remembers what you tasted. No ads, no accounts, no noise.
 
 - **Gaiwan timer.** Instead of numbers, a gaiwan slowly fills with tea: the leaves unfurl, steam rises and the lid lifts when it's time to pour. Each infusion has its own time; between infusions, a short pause for three breaths. A singing bowl, bell, gong, wooden fish or wind chimes tells you when it's ready.
-- **129 teas** — green, white, yellow, oolong, red, pu-erh from different mountains, dark teas, plus Japan, Korea, India and Nepal. Each with a gongfu recipe (temperature, grams, every infusion's time), aroma, taste, traditional effect, hanzi and pinyin. Add your own teas and photos.
+- **143 teas** — green, white, yellow, oolong, red, pu-erh from different mountains, dark teas, plus Japan, Korea, India and Nepal. Each with a gongfu recipe (temperature, grams, every infusion's time), aroma, taste, traditional effect, hanzi and pinyin. Add your own teas and photos.
 - **Tasting journal.** Note flavours for each infusion; the journal keeps every ceremony. Monthly stats, taste-based recommendations, similar teas, a shelf with stock in grams and a wishlist.
 - **Teaware guide** — gaiwan, Yixing, Nixing, Jianshui, Chaozhou, porcelain, glass and kyusu: how each shapes the taste, which teas suit it, how to care for it.
 - **Water without a thermometer**, **where to buy** (in-stock offers from Ukrainian shops, by price per 100 g), **Ukrainian and English**, **backup to a file**.
