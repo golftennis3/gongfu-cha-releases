@@ -1,0 +1,204 @@
+{
+ "teas": {
+  "alishan": [
+   {
+    "a": "Gary Soup",
+    "f": "alishan/liquor-194da73d.webp",
+    "k": "liquor",
+    "l": "CC BY 2.0",
+    "s": "https://www.flickr.com/photos/87117631@N00/30433708973"
+   }
+  ],
+  "biluochun": [
+   {
+    "a": "Gary Soup",
+    "f": "biluochun/liquor-b26e6981.webp",
+    "k": "liquor",
+    "l": "CC BY 2.0",
+    "s": "https://www.flickr.com/photos/87117631@N00/27311139003"
+   }
+  ],
+  "dahongpao": [
+   {
+    "a": "Aramek",
+    "f": "dahongpao/dry-c79aa5a1.webp",
+    "k": "dry",
+    "l": "CC BY 2.0",
+    "s": "https://www.flickr.com/photos/59218572@N04/6033040130"
+   }
+  ],
+  "dianhong": [
+   {
+    "a": "Whiteness",
+    "f": "dianhong/dry-879e1071.webp",
+    "k": "dry",
+    "l": "CC BY-SA 4.0",
+    "s": "https://commons.wikimedia.org/wiki/File:Yunnan_Black_SFTGFOP_%281%29.JPG"
+   }
+  ],
+  "gyokuro": [
+   {
+    "a": "Breville USA",
+    "f": "gyokuro/dry-b4dfe073.webp",
+    "k": "dry",
+    "l": "CC BY 2.0",
+    "s": "https://www.flickr.com/photos/38102750@N06/8736361566"
+   },
+   {
+    "a": "mkniebes",
+    "f": "gyokuro/liquor-10951164.webp",
+    "k": "liquor",
+    "l": "CC0",
+    "s": "https://www.flickr.com/photos/76696276@N00/39781366892"
+   }
+  ],
+  "houkui": [
+   {
+    "a": "Pannet",
+    "f": "houkui/liquor-e0d56a3c.webp",
+    "k": "liquor",
+    "l": "CC BY 4.0",
+    "s": "https://commons.wikimedia.org/wiki/File:Taiping_houkui_12.jpg"
+   }
+  ],
+  "lapsang": [
+   {
+    "a": "mkniebes",
+    "f": "lapsang/liquor-672e5d06.webp",
+    "k": "liquor",
+    "l": "CC0",
+    "s": "https://www.flickr.com/photos/76696276@N00/43565629721"
+   }
+  ],
+  "liubao": [
+   {
+    "a": "chadao",
+    "f": "liubao/dry-c78f04a2.webp",
+    "k": "dry",
+    "l": "CC BY-SA 2.0",
+    "s": "https://www.flickr.com/photos/32335956@N06/22227853272"
+   },
+   {
+    "a": "chadao",
+    "f": "liubao/liquor-ea728fea.webp",
+    "k": "liquor",
+    "l": "CC BY-SA 2.0",
+    "s": "https://www.flickr.com/photos/32335956@N06/21619636163"
+   },
+   {
+    "a": "chadao",
+    "f": "liubao/spent-44a55c2d.webp",
+    "k": "spent",
+    "l": "CC BY-SA 2.0",
+    "s": "https://www.flickr.com/photos/32335956@N06/22214582286"
+   }
+  ],
+  "longjing": [
+   {
+    "a": "macchi",
+    "f": "longjing/liquor-e21b7d3f.webp",
+    "k": "liquor",
+    "l": "CC BY-SA 2.0",
+    "s": "https://www.flickr.com/photos/48899830@N00/12172975995"
+   }
+  ],
+  "maofeng": [
+   {
+    "a": "Qirille",
+    "f": "maofeng/dry-79233bc9.webp",
+    "k": "dry",
+    "l": "CC BY-SA 4.0",
+    "s": "https://commons.wikimedia.org/wiki/File:MaoFeng_tea_%E9%BB%84%E5%B1%B1%E6%AF%9B%E5%B3%B0.jpg"
+   }
+  ],
+  "qimen": [
+   {
+    "a": "Whiteness",
+    "f": "qimen/dry-6ff95e78.webp",
+    "k": "dry",
+    "l": "CC BY-SA 4.0",
+    "s": "https://commons.wikimedia.org/wiki/File:Keemun_FOP_%281%29.JPG"
+   }
+  ],
+  "sencha": [
+   {
+    "a": "blueparrot21",
+    "f": "sencha/dry-0ce6c3fe.webp",
+    "k": "dry",
+    "l": "CC BY-SA 2.0",
+    "s": "https://www.flickr.com/photos/168785313@N04/40324739473"
+   },
+   {
+    "a": "Konstantin Leonov",
+    "f": "sencha/spent-caee4bcc.webp",
+    "k": "spent",
+    "l": "CC BY 2.0",
+    "s": "https://www.flickr.com/photos/73003003@N07/7856860582"
+   }
+  ],
+  "tgy": [
+   {
+    "a": "Francesc Fort",
+    "f": "tgy/dry-f4390765.webp",
+    "k": "dry",
+    "l": "CC BY-SA 4.0",
+    "s": "https://commons.wikimedia.org/wiki/File:T%C3%A9_Tieguanyin.jpg"
+   },
+   {
+    "a": "mkniebes",
+    "f": "tgy/liquor-d85e83c3.webp",
+    "k": "liquor",
+    "l": "CC0",
+    "s": "https://www.flickr.com/photos/76696276@N00/49278048737"
+   },
+   {
+    "a": "Yuya Tamai",
+    "f": "tgy/spent-730d1d6f.webp",
+    "k": "spent",
+    "l": "CC BY 2.0",
+    "s": "https://www.flickr.com/photos/76758469@N00/49376557063"
+   }
+  ],
+  "yashixiang": [
+   {
+    "a": "Mx. Granger",
+    "f": "yashixiang/dry-45121595.webp",
+    "k": "dry",
+    "l": "CC0",
+    "s": "https://commons.wikimedia.org/wiki/File:Duck_shit_aroma_tea_1.jpg"
+   },
+   {
+    "a": "Mx. Granger",
+    "f": "yashixiang/liquor-1cf45176.webp",
+    "k": "liquor",
+    "l": "CC0",
+    "s": "https://commons.wikimedia.org/wiki/File:Duck_shit_aroma_tea_7.jpg"
+   }
+  ],
+  "yinzhen": [
+   {
+    "a": "jijokini",
+    "f": "yinzhen/dry-5c7ee846.webp",
+    "k": "dry",
+    "l": "CC BY 2.0",
+    "s": "https://www.flickr.com/photos/194978137@N04/51869290778"
+   }
+  ],
+  "yiwu": [
+   {
+    "a": "teajournaling",
+    "f": "yiwu/dry-9bb65b9a.webp",
+    "k": "dry",
+    "l": "CC BY 2.0",
+    "s": "https://www.flickr.com/photos/23270409@N05/2227590375"
+   },
+   {
+    "a": "teajournaling",
+    "f": "yiwu/liquor-182c7e7a.webp",
+    "k": "liquor",
+    "l": "CC BY 2.0",
+    "s": "https://www.flickr.com/photos/23270409@N05/2236407090"
+   }
+  ]
+ }
+}
