@@ -22,6 +22,16 @@
 
 Поки чай настоюється, відлік видно й у шторці сповіщень та на заблокованому екрані, з кнопкою «Злити».
 
+<img src="images/rolled.png" alt="Те Гуань Інь у гайвані: кульки поступово розкриваються від промивки до третього проливу" width="100%">
+
+Скручені в кульки чаї — Те Гуань Інь, гаошань, Дун Дін, жасминові перлини — розкриваються поступово, як насправді: після промивки кульки лише набухають, а до третього проливу листя розправляється повністю.
+
+### Гайвань під настрій
+
+<img src="images/gaiwans.png" alt="Шість стилів гайвані: Класика, Бусідо, Ваби-сабі, Цінхуа, Селадон, Ісін" width="100%">
+
+Класика з білої порцеляни із золотом, Бусідо з чорного лаку з золотою гілкою сакури, Ваби-сабі з сірого раку з тріщиною кінцуґі, синьо-біла Цінхуа, нефритовий Селадон і пурпурова ісинська глина. Вибрати можна в налаштуваннях або просто під час церемонії — довгим натисканням на гайвань.
+
 ## 149 чаїв
 
 <img src="images/teas.png" alt="Ілюстрації чаїв із каталогу" width="100%">
@@ -29,7 +39,9 @@
 Зелені, білі, жовті, улуни, червоні, пуери з різних гір, темні чаї, а також Японія, Корея, Індія, Непал. Для кожного:
 - рецепт для гунфу: температура, грами на об'єм, час кожного проливу;
 - аромат, смак і традиційно описаний ефект;
-- ієрогліфи, піньїнь, регіон.
+- ієрогліфи, піньїнь, регіон і що означає назва («Великий червоний халат», «Залізна богиня милосердя»).
+
+Сторінка чаю читається згори донизу: «Почати церемонію» з рецептом, далі «Який він» — опис, фото, колір настою, аромат і смак, потім «Моє» — твоя оцінка, нотатки, запас і що ти в цьому чаї знаходиш. Незрозумілі слова в описах (хуей гань, ча ці, янь юнь, окислення…) підкреслені: натисни — і з'явиться пояснення.
 
 Можна додати власний чай.
 
@@ -41,12 +53,14 @@
 
 Можна поставити й свої фото — вони лишаються тільки на твоєму телефоні.
 
-## Щоденник смаків
+## Аромат і смак
 
-- Під час церемонії відмічаєш смаки кожного проливу: квітковий, медовий, мінеральний…
-- Журнал зберігає кожну церемонію: чай, проливи, грами, оцінку, нотатку.
-- Статистика за місяць: що п'єш найчастіше, улюблені смаки, коли зазвичай чаюєш.
-- Рекомендації: програма вчиться на твоїх смаках і підказує, що спробувати далі, і показує схожі чаї.
+<img src="images/aroma.png" alt="Під час церемонії: рядки «аромат» і «смак», вибір нот за групами і таблиця останньої церемонії" width="100%">
+
+- Аромат записується в три моменти: **сухе листя**, **прогріте листя** в гарячому гайвані й **заварене** після кожного проливу. Смак — після кожного проливу.
+- Для аромату свій, тонший набір нот (орхідея, персик, солод, камфора, мокрий камінь…), розкладений за групами, — бо язик розрізняє лише кілька смаків, а ніс сотні нот. Довге натискання на ноту пояснює її.
+- Журнал зберігає кожну церемонію: чай, проливи, грами, оцінку, нотатку, а остання церемонія відкривається таблицею — аромат і смак по проливах.
+- Статистика за місяць, улюблені аромати й смаки, рекомендації «що спробувати далі» й схожі чаї.
 - Полиця з запасом у грамах (списується після церемонії) і список «Хочу спробувати».
 
 ## Чайний посуд
@@ -90,11 +104,13 @@
 
 **Gongfu Cha** is a quiet app for the Chinese tea ceremony 功夫茶. It guides you from the first infusion to the last, gives a recipe for every tea and remembers what you tasted. No ads, no accounts, no noise.
 
-- **Gaiwan timer.** Instead of numbers, a gaiwan slowly fills with tea: the leaves unfurl, steam rises and the lid lifts when it's time to pour. Each infusion has its own time; between infusions, a short pause for three breaths. A singing bowl, bell, gong, wooden fish or wind chimes tells you when it's ready.
+- **Gaiwan timer.** Instead of numbers, a gaiwan slowly fills with tea: the leaves unfurl, steam rises and the lid lifts when it's time to pour. Ball-rolled oolongs and jasmine pearls open gradually, fully by the third infusion. Each infusion has its own time; between infusions, a short pause for three breaths. A singing bowl, bell, gong, wooden fish or wind chimes tells you when it's ready.
+- **Six gaiwan styles** — classic porcelain, bushido black lacquer, wabi-sabi raku with kintsugi, qinghua blue-and-white, celadon and Yixing clay; long-press the gaiwan to switch.
 - **Countdown in the notification shade** and on the lock screen while the tea steeps, with a “Pour” button.
 - **149 teas** — green, white, yellow, oolong, red, pu-erh from different mountains, dark teas, plus Japan, Korea, India and Nepal. Each with a gongfu recipe (temperature, grams, every infusion's time), aroma, taste, traditional effect, hanzi and pinyin. Add your own teas.
 - **Real photos** — “How it looks” on the tea page: dry leaf, liquor and spent leaves. Photos are added to this repository over time and reach the app by themselves; each shows its author and licence ([photos/README.md](photos/README.md)). Your own photos stay on your phone.
-- **Tasting journal.** Note flavours for each infusion; the journal keeps every ceremony. Monthly stats, taste-based recommendations, similar teas, a shelf with stock in grams and a wishlist.
+- **Aroma and taste.** Note the aroma of the dry leaf, the warmed leaf and each infusion, and the taste of each infusion, from notes laid out in families. The journal keeps every ceremony and shows the last one as a table. Monthly stats, recommendations, similar teas, a shelf with stock in grams and a wishlist.
+- **Glossary.** Terms in the descriptions (hui gan, cha qi, yan yun, oxidation…) are underlined and explained on a tap; a long press explains any note.
 - **Teaware guide** — gaiwan, Yixing, Nixing, Jianshui, Chaozhou, porcelain, glass and kyusu: how each shapes the taste, which teas suit it, how to care for it.
 - **Water without a thermometer**, **where to buy** (in-stock offers from Ukrainian shops, by price per 100 g), **Ukrainian and English**, **backup to a file**.
 
