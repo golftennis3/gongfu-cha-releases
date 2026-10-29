@@ -14,9 +14,9 @@
 
 <img src="images/screens.png" alt="Екрани програми: Сьогодні, каталог, сторінка чаю, церемонія" width="100%">
 
-## Що нового в 3.3
+## Що нового в 3.4
 
-Програма стала спокійнішою. Налаштування тепер короткий список із чотирьох груп, а «Сьогодні» показує лише головне: чай дня, останню церемонію і що спробувати далі. Приказка дня стоїть одним рядком під привітанням, із джерелом. Усі зміни описані на [сторінці версії](https://github.com/golftennis3/gongfu-cha-releases/releases/latest).
+Програма стала точнішою. Для будь-якого чаю з каталогу можна задати свій рецепт: температуру води, скільки листя і промивку. Після першої промивки можна зробити ще одну, як просять шу й витримані шени. У гайвані пресований чай розпадається поступово, а Сяо Цін Гань лежить цілим мандарином. Пошук розуміє «пуэр» і «Те Гуань Инь», а в «Де купити» рік у назві більше не плутається з вагою. Додалися 24 приказки дня. Усі зміни описані на [сторінці версії](https://github.com/golftennis3/gongfu-cha-releases/releases/latest).
 
 ## Таймер-гайвань
 
@@ -157,6 +157,7 @@
 - **Saying of the day** — real lines about tea, with the hanzi, the reading and the source.
 - **Water without a thermometer**, **where to buy** (in-stock offers from Ukrainian shops, by price per 100 g), **Ukrainian and English**, **practice mode**, and **backup** of everything, photos included, in one file.
 - **Calm settings** in four short groups: Ceremony, Look, Nose, Data.
+- **New in 3.4:** your own recipe for any catalogue tea (water, leaf, rinse), a second rinse, pressed teas that come apart in the gaiwan little by little, search that understands Russian spellings and pinyin tone marks, and 24 more sayings.
 
 **Install:** open the [latest release](https://github.com/golftennis3/gongfu-cha-releases/releases/latest) on your phone, download **GongfuCha-….apk**, open it and allow installing from this source. After that, updates arrive inside the app; to check by hand, tap “check for updates” at the bottom of settings. Android 8.0 or newer.
 
