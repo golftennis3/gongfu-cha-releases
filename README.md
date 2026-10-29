@@ -14,13 +14,17 @@
 
 <img src="images/screens.png" alt="Екрани програми: Сьогодні, каталог, сторінка чаю, церемонія" width="100%">
 
+## Що нового в 3.3
+
+Програма стала спокійнішою. Налаштування тепер короткий список із чотирьох груп, а «Сьогодні» показує лише головне: чай дня, останню церемонію і що спробувати далі. Приказка дня стоїть одним рядком під привітанням, із джерелом. Усі зміни описані на [сторінці версії](https://github.com/golftennis3/gongfu-cha-releases/releases/latest).
+
 ## Таймер-гайвань
 
 <img src="images/timer.png" alt="Таймер у вигляді гайвані: заливаєш воду, чай настоюється, зливаєш настій" width="100%">
 
 Замість цифр — гайвань, яка повільно наповнюється настоєм: листя розкривається, з'являється пара, кришка піднімається, коли час зливати. Для кожного проливу свій час із рецепта. Між проливами — коротка пауза на три вдихи. Коли настій готовий, лунає звук: співоча чаша, дзвіночок, гонг, дерев'яна рибка або дзвоники вітру.
 
-Поки чай настоюється, відлік видно й у шторці сповіщень та на заблокованому екрані, з кнопкою «Злити».
+За три секунди до сигналу звучить тихе «ток-ток-ток» і, якщо хочеш, легка вібрація: встигаєш узяти гайвань. Поки чай настоюється, відлік видно й у шторці сповіщень та на заблокованому екрані, з кнопкою «Злити». Можна ввімкнути маленьке нагадування закрити термос, коли заливаєш воду.
 
 <img src="images/rolled.png" alt="Те Гуань Інь у гайвані: кульки поступово розкриваються від промивки до третього проливу" width="100%">
 
@@ -30,7 +34,7 @@
 
 <img src="images/gaiwans.png" alt="Шість стилів гайвані: Класика, Бусідо, Ваби-сабі, Цінхуа, Селадон, Ісін" width="100%">
 
-Класика з білої порцеляни із золотом, Бусідо з чорного лаку з золотою гілкою сакури, Ваби-сабі з сірого раку з тріщиною кінцуґі, синьо-біла Цінхуа, нефритовий Селадон і пурпурова ісинська глина. Вибрати можна в налаштуваннях або просто під час церемонії — довгим натисканням на гайвань.
+Класика з білої порцеляни із золотом, Бусідо з чорного лаку з золотою гілкою сакури, Ваби-сабі з сірого раку з тріщиною кінцуґі, синьо-біла Цінхуа, нефритовий Селадон і пурпурова ісинська глина. Вибрати можна в налаштуваннях («Тема й кольори») або просто під час церемонії — довгим натисканням на гайвань.
 
 ## 149 чаїв
 
@@ -41,9 +45,15 @@
 - аромат, смак і традиційно описаний ефект;
 - ієрогліфи, піньїнь, регіон і що означає назва («Великий червоний халат», «Залізна богиня милосердя»).
 
-Сторінка чаю читається згори донизу: «Почати церемонію» з рецептом, далі «Який він» — опис, фото, колір настою, аромат і смак, потім «Моє» — твоя оцінка, нотатки, запас і що ти в цьому чаї знаходиш. Незрозумілі слова в описах (хуей гань, ча ці, янь юнь, окислення…) підкреслені: натисни — і з'явиться пояснення.
+Сторінка чаю читається згори донизу: «Почати церемонію» з рецептом, далі «Про чай» — опис, фото, колір настою за проливами, аромат, смак і ефект, потім «Моє» — твоя оцінка, нотатки, запас і що ти в цьому чаї знаходиш. Незрозумілі слова в описах (хуей гань, ча ці, янь юнь, окислення…) підкреслені: натисни — і з'явиться пояснення.
 
-Можна додати власний чай.
+Можна додати власний чай і самому обрати, як він виглядає: форму листя (голки, кульки, перлини, пласке, золоті бруньки, млинець, цеглина, мандарин…), колір сухого листя й колір настою. Змінити це можна й потім.
+
+## Пошук
+
+<img src="images/search.png" alt="Пошук «вугілля»: чаї з цією нотою і окремо ті, де слово згадується в описі; свій чай і вибір його вигляду" width="100%">
+
+Шукай так, як говориш: «османтус», «мед», «копчений», «вугілля». Пошук розуміє синоніми й різні форми слова, пробачає одну помилку і показує, чому чай знайшовся: збіг у назві, у нотах чи в описі. Чаї, де слово лише згадується в описі, зібрані окремо внизу, щоб не заважати.
 
 ## Справжні фото
 
@@ -55,13 +65,34 @@
 
 ## Аромат і смак
 
-<img src="images/aroma.png" alt="Під час церемонії: рядки «аромат» і «смак», вибір нот за групами і таблиця останньої церемонії" width="100%">
+<img src="images/aroma.png" alt="Під час церемонії: вибір нот аромату й смаку за групами і таблиця церемонії по проливах" width="100%">
 
 - Аромат записується в три моменти: **сухе листя**, **прогріте листя** в гарячому гайвані й **заварене** після кожного проливу. Смак — після кожного проливу.
 - Для аромату свій, тонший набір нот (орхідея, персик, солод, камфора, мокрий камінь…), розкладений за групами, — бо язик розрізняє лише кілька смаків, а ніс сотні нот. Довге натискання на ноту пояснює її.
-- Журнал зберігає кожну церемонію: чай, проливи, грами, оцінку, нотатку, а остання церемонія відкривається таблицею — аромат і смак по проливах.
-- Статистика за місяць, улюблені аромати й смаки, рекомендації «що спробувати далі» й схожі чаї.
+- Рекомендації «що спробувати далі» за твоїм смаком і схожі чаї на сторінці кожного чаю.
 - Полиця з запасом у грамах (списується після церемонії) і список «Хочу спробувати».
+
+## Журнал
+
+<img src="images/journal.png" alt="Журнал по днях, порівняння двох церемоній Шу Пуеру і картка церемонії, щоб поділитися" width="100%">
+
+- Журнал зібраний по днях: чай, проливи, оцінка, ноти й нотатка. Кожна церемонія відкривається таблицею — аромат і смак по проливах.
+- **Порівняння**: дві церемонії одного чаю поруч, пролив за проливом, і підсумок — що відчув обидва рази, а що лише одного.
+- **Картка церемонії**: гарна картинка з чаєм, нотами й нотаткою, щоб надіслати другові.
+- Статистика за місяць, рік або весь час: скільки церемоній і грамів чаю, улюблені види, аромати й смаки, коли ти п'єш чай.
+
+## Тренування носа
+
+<img src="images/nose.png" alt="Тренування носа: скільки нот відчув сам, картка ноти «камфора» з підказками, вправа «Яку ноту описано?»" width="100%">
+
+Необов'язкове тренування, щоб розрізняти ноти впевнено. Без нагадувань і серій — коли захочеш.
+- 32 ноти за групами. Нота вважається твоєю, коли ти тричі відчув її сам у чаї, де вона є в описі.
+- Для кожної ноти: як її описують, як упізнати вдома (камфорна олія, кориця, мед…), у яких чаях шукати і з чим її плутають.
+- Перед церемонією — тихий рядок «Зазвичай шукають: …», після — що з твоїх нот збіглося з описом.
+- Вправа на 2 хвилини: «Яку ноту описано?», з нот, які ти вчиш, і з чаїв на твоїй полиці.
+
+Вмикається в налаштуваннях («Ніс»).
+
 
 ## Чайний посуд
 
@@ -75,24 +106,32 @@
 
 Вечірня чайна, Рисовий папір, Нефрит, Ісинська глина, Синя порцеляна — або свій колір акценту. Можна ввімкнути «акцент — колір чаю»: сторінка кожного чаю набуває кольору його настою. І автоматичне перемикання: світла тема вдень, темна ввечері.
 
+## Налаштування
+
+<img src="images/settings.png" alt="Налаштування: чотири групи — Церемонія, Вигляд, Ніс, Дані; сторінки «Сигнал» і «Тема й кольори»" width="100%">
+
+Короткий список: посуд, сигнал, термос, режим проби, тема, мова, тренування носа і резервна копія. У кожному рядку видно, що зараз обрано, а деталі відкриваються тапом.
+
 ## І ще
 
+- **Приказка дня** — справжні рядки про чай від Лу Юя, Лу Туна, Су Ші, чаньських майстрів, з ієрогліфами, читанням і джерелом.
 - **Вода без термометра** — як на око визначити потрібну температуру за бульбашками.
 - **Де купити** — пропозиції в наявності з Prom.ua, відсортовані за ціною за 100 г, і спеціалізовані українські чайні магазини.
 - **Українська та англійська** — мову можна змінити в будь-який момент.
-- **Резервна копія** — увесь журнал і полиця в одному файлі.
+- **Режим проби** — заварити, нічого не записуючи.
+- **Резервна копія** — полиця, нотатки, журнал, свої чаї, налаштування й усі фото в одному файлі. Відновлюються й старі копії.
 
 ## Встановлення
 
 1. Відкрий [останню версію](https://github.com/golftennis3/gongfu-cha-releases/releases/latest) з телефона й завантаж файл **GongfuCha-….apk**.
 2. Відкрий його. Android попередить, що програма не з Google Play, — дозволь встановлення з цього джерела.
-3. Готово. Далі **оновлення приходять самі**: коли виходить нова версія, у програмі з'явиться тихий рядок «Доступна версія…», одне натискання — і вона встановиться поверх, зі збереженням усіх даних. Перевірити вручну — кнопка «Перевірити» на самому верху налаштувань (⚙ на екрані «Сьогодні»).
+3. Готово. Далі **оновлення приходять самі**: коли виходить нова версія, у програмі з'явиться тихий рядок «Доступна версія…», одне натискання — і вона встановиться поверх, зі збереженням усіх даних. Перевірити вручну — «перевірити оновлення» внизу налаштувань (⚙ на екрані «Сьогодні»).
 
 Потрібен Android 8.0 або новіший.
 
 ## Приватність
 
-Усе зберігається тільки на твоєму телефоні: жодних акаунтів, аналітики чи реклами. Твої власні фото теж нікуди не завантажуються. В інтернет програма звертається лише тоді, коли ти відкриваєш «Де купити» (пошук на Prom.ua), і щоб узяти з цього репозиторію на GitHub нову версію та фото чаїв.
+Усе зберігається тільки на твоєму телефоні: жодних акаунтів, аналітики чи реклами. Твої власні фото теж нікуди не завантажуються, а картка церемонії йде лише туди, куди ти сам її надішлеш. В інтернет програма звертається лише тоді, коли ти відкриваєш «Де купити» (пошук на Prom.ua), і щоб узяти з цього репозиторію на GitHub нову версію та фото чаїв.
 
 Описи ефектів — традиційні враження чаювальників, а не медичні поради.
 
@@ -106,17 +145,22 @@
 
 - **Gaiwan timer.** Instead of numbers, a gaiwan slowly fills with tea: the leaves unfurl, steam rises and the lid lifts when it's time to pour. Ball-rolled oolongs and jasmine pearls open gradually, fully by the third infusion. Each infusion has its own time; between infusions, a short pause for three breaths. A singing bowl, bell, gong, wooden fish or wind chimes tells you when it's ready.
 - **Six gaiwan styles** — classic porcelain, bushido black lacquer, wabi-sabi raku with kintsugi, qinghua blue-and-white, celadon and Yixing clay; long-press the gaiwan to switch.
-- **Countdown in the notification shade** and on the lock screen while the tea steeps, with a “Pour” button.
-- **149 teas** — green, white, yellow, oolong, red, pu-erh from different mountains, dark teas, plus Japan, Korea, India and Nepal. Each with a gongfu recipe (temperature, grams, every infusion's time), aroma, taste, traditional effect, hanzi and pinyin. Add your own teas.
+- **Countdown** — a soft tap-tap-tap (and an optional buzz) in the last three seconds, the countdown in the notification shade and on the lock screen with a “Pour” button, and an optional reminder to close the thermos.
+- **149 teas** — green, white, yellow, oolong, red, pu-erh from different mountains, dark teas, plus Japan, Korea, India and Nepal. Each with a gongfu recipe (temperature, grams, every infusion's time), aroma, taste, traditional effect, hanzi and pinyin. Add your own teas and choose how they look: leaf shape, dry leaf colour and liquor colour.
 - **Real photos** — “How it looks” on the tea page: dry leaf, liquor and spent leaves. Photos are added to this repository over time and reach the app by themselves; each shows its author and licence ([photos/README.md](photos/README.md)). Your own photos stay on your phone.
-- **Aroma and taste.** Note the aroma of the dry leaf, the warmed leaf and each infusion, and the taste of each infusion, from notes laid out in families. The journal keeps every ceremony and shows the last one as a table. Monthly stats, recommendations, similar teas, a shelf with stock in grams and a wishlist.
+- **Search** that understands synonyms, word forms and one typo, and says why a tea matched: its name, its notes or its description.
+- **Aroma and taste.** Note the aroma of the dry leaf, the warmed leaf and each infusion, and the taste of each infusion, from notes laid out in families. Recommendations, similar teas, a shelf with stock in grams and a wishlist.
+- **Journal** grouped by day, each ceremony as a table by infusion. Compare two ceremonies of the same tea side by side, share a ceremony as a picture, see your stats by month, year or all time.
+- **Nose training** (optional): 32 notes, how to recognise each at home, which teas to look in, what it gets confused with; a quiet “usually found” line before a ceremony, what matched after it, and a two-minute exercise. No reminders, no streaks.
 - **Glossary.** Terms in the descriptions (hui gan, cha qi, yan yun, oxidation…) are underlined and explained on a tap; a long press explains any note.
 - **Teaware guide** — gaiwan, Yixing, Nixing, Jianshui, Chaozhou, porcelain, glass and kyusu: how each shapes the taste, which teas suit it, how to care for it.
-- **Water without a thermometer**, **where to buy** (in-stock offers from Ukrainian shops, by price per 100 g), **Ukrainian and English**, **backup to a file**.
+- **Saying of the day** — real lines about tea, with the hanzi, the reading and the source.
+- **Water without a thermometer**, **where to buy** (in-stock offers from Ukrainian shops, by price per 100 g), **Ukrainian and English**, **practice mode**, and **backup** of everything, photos included, in one file.
+- **Calm settings** in four short groups: Ceremony, Look, Nose, Data.
 
-**Install:** open the [latest release](https://github.com/golftennis3/gongfu-cha-releases/releases/latest) on your phone, download **GongfuCha-….apk**, open it and allow installing from this source. After that, updates arrive inside the app; to check by hand, tap “Check” at the top of settings. Android 8.0 or newer.
+**Install:** open the [latest release](https://github.com/golftennis3/gongfu-cha-releases/releases/latest) on your phone, download **GongfuCha-….apk**, open it and allow installing from this source. After that, updates arrive inside the app; to check by hand, tap “check for updates” at the bottom of settings. Android 8.0 or newer.
 
-**Privacy:** everything stays on your phone, your own photos included. The app only goes online to look up prices (Prom.ua) when you open “Where to buy”, and to fetch new versions and tea photos from this repository.
+**Privacy:** everything stays on your phone, your own photos included; a ceremony card goes only where you send it. The app only goes online to look up prices (Prom.ua) when you open “Where to buy”, and to fetch new versions and tea photos from this repository.
 
 ---
 
