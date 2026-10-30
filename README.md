@@ -14,9 +14,9 @@
 
 <img src="images/screens.png" alt="Екрани програми: Сьогодні, каталог, сторінка чаю, церемонія" width="100%">
 
-## Що нового в 3.4
+## Що нового в 3.5
 
-Програма стала точнішою. Для будь-якого чаю з каталогу можна задати свій рецепт: температуру води, скільки листя і промивку. Після першої промивки можна зробити ще одну, як просять шу й витримані шени. У гайвані пресований чай розпадається поступово, а Сяо Цін Гань лежить цілим мандарином. Пошук розуміє «пуэр» і «Те Гуань Инь», а в «Де купити» рік у назві більше не плутається з вагою. Додалися 24 приказки дня. Усі зміни описані на [сторінці версії](https://github.com/golftennis3/gongfu-cha-releases/releases/latest).
+Біля гайвані тепер живе чайна фігурка (茶宠): Цзінь Чань, Піксю, ченчик, Мілефо, порося, черепаха, рибка-хамелеон або хлопчик. Промивку програма зливає на неї сама, а з кожною церемонією глина повільно вбирає чай: темніє, береться блиском і набуває кольору твоїх чаїв, як справжня ісинська. Рибка червоніє від окропу, а хлопчик пускає цівку. Усі зміни описані на [сторінці версії](https://github.com/golftennis3/gongfu-cha-releases/releases/latest).
 
 ## Таймер-гайвань
 
@@ -158,6 +158,7 @@
 - **Water without a thermometer**, **where to buy** (in-stock offers from Ukrainian shops, by price per 100 g), **Ukrainian and English**, **practice mode**, and **backup** of everything, photos included, in one file.
 - **Calm settings** in four short groups: Ceremony, Look, Nose, Data.
 - **New in 3.4:** your own recipe for any catalogue tea (water, leaf, rinse), a second rinse, pressed teas that come apart in the gaiwan little by little, search that understands Russian spellings and pinyin tone marks, and 24 more sayings.
+- **New in 3.5: a tea pet** on the tray beside the gaiwan — the rinse goes over it by itself, and ceremony by ceremony its clay darkens, shines and takes the colour of your teas, like real Yixing clay.
 
 **Install:** open the [latest release](https://github.com/golftennis3/gongfu-cha-releases/releases/latest) on your phone, download **GongfuCha-….apk**, open it and allow installing from this source. After that, updates arrive inside the app; to check by hand, tap “check for updates” at the bottom of settings. Android 8.0 or newer.
 
