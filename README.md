@@ -14,9 +14,11 @@
 
 <img src="images/screens.png" alt="Екрани програми: Сьогодні, каталог, сторінка чаю, церемонія" width="100%">
 
-## Що нового в 3.5
+## Що нового в 3.6
 
-Біля гайвані тепер живе чайна фігурка (茶宠): Цзінь Чань, Піксю, ченчик, Мілефо, порося, черепаха, рибка-хамелеон або хлопчик. Коли зливаєш промивку і коли завершуєш церемонію, на неї стікає цівка чаю, а з кожною церемонією глина повільно вбирає чай: темніє, береться блиском і набуває кольору твоїх чаїв, як справжня ісинська. Рибка червоніє від окропу, а хлопчик пускає цівку. Усі зміни описані на [сторінці версії](https://github.com/golftennis3/gongfu-cha-releases/releases/latest).
+**Лист без ваг.** Скільки чаю насипати, якщо немає ваг, тепер видно так, як міряють у Китаї: на око (目测). Під грамами на картці чаю написано, скільки це в гайвані («≈ ¼ гайваня»). Дотик відкриває малюнок: до якої висоти насипати сухий лист і куди дійде розкритий на 2–3 проливі. Висоти взято з китайської традиції для кожного виду листа (кульки улунів лише вкривають дно, пухкий білий займає половину–три чверті) і перераховано під твої грами. Для пресованих чаїв на екрані видно шматок у натуральну величину, його можна прикласти до телефона. Перед першим проливом на гайвані з'являється тиха смуга-підказка.
+
+У 3.5 біля гайвані оселилася чайна фігурка (茶宠): на неї стікає промивка і залишок чаю, і з кожною церемонією її глина темніє й береться блиском. Усі зміни описані на [сторінці версії](https://github.com/golftennis3/gongfu-cha-releases/releases/latest).
 
 ## Таймер-гайвань
 
@@ -159,6 +161,7 @@
 - **Calm settings** in four short groups: Ceremony, Look, Nose, Data.
 - **New in 3.4:** your own recipe for any catalogue tea (water, leaf, rinse), a second rinse, pressed teas that come apart in the gaiwan little by little, search that understands Russian spellings and pinyin tone marks, and 24 more sayings.
 - **New in 3.5: a tea pet** on the tray beside the gaiwan — the rinse and the last of the tea are poured over it, and ceremony by ceremony its clay darkens, shines and takes the colour of your teas, like real Yixing clay.
+- **New in 3.6: leaf without scales** — how much leaf to use, measured by eye the Chinese way: the tea card says what your grams are in the gaiwan (“≈ ¼ of the gaiwan”), a picture shows how high to fill it with dry leaf, and pressed teas get a piece drawn at real size to hold against the phone.
 
 **Install:** open the [latest release](https://github.com/golftennis3/gongfu-cha-releases/releases/latest) on your phone, download **GongfuCha-….apk**, open it and allow installing from this source. After that, updates arrive inside the app; to check by hand, tap “check for updates” at the bottom of settings. Android 8.0 or newer.
 
