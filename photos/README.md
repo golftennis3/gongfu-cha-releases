@@ -7,12 +7,14 @@
 | Чай | Фото | Автор | Ліцензія | Оригінал |
 |---|---|---|---|---|
 | Алішань Гао Шань | [настій](alishan/liquor-194da73d.webp) | Gary Soup | CC BY 2.0 | [посилання](https://www.flickr.com/photos/87117631@N00/30433708973) |
+| Бай Му Дань | [сухе листя](baimudan/dry-7480c0a9.webp) | chaidrakon.ru | CC BY 3.0 | [посилання](https://commons.wikimedia.org/wiki/File:Bai_Mudan.jpg) |
 | Бай Хао Інь Чжень | [сухе листя](yinzhen/dry-5c7ee846.webp) | jijokini | CC BY 2.0 | [посилання](https://www.flickr.com/photos/194978137@N04/51869290778) |
 | Бі Ло Чунь | [настій](biluochun/liquor-b26e6981.webp) | Gary Soup | CC BY 2.0 | [посилання](https://www.flickr.com/photos/87117631@N00/27311139003) |
 | Гьокуро | [сухе листя](gyokuro/dry-b4dfe073.webp) | Breville USA | CC BY 2.0 | [посилання](https://www.flickr.com/photos/38102750@N06/8736361566) |
 | Гьокуро | [настій](gyokuro/liquor-10951164.webp) | mkniebes | CC0 | [посилання](https://www.flickr.com/photos/76696276@N00/39781366892) |
 | Да Хун Пао | [сухе листя](dahongpao/dry-c79aa5a1.webp) | Aramek | CC BY 2.0 | [посилання](https://www.flickr.com/photos/59218572@N04/6033040130) |
 | Дянь Хун Цзінь Я | [сухе листя](dianhong/dry-879e1071.webp) | Whiteness | CC BY-SA 4.0 | [посилання](https://commons.wikimedia.org/wiki/File:Yunnan_Black_SFTGFOP_%281%29.JPG) |
+| Лао Бань Чжан | [сухе листя](laobanzhang/dry-e3b6ef8d.webp) | Francesc Fort | CC BY-SA 4.0 | [посилання](https://commons.wikimedia.org/wiki/File:T%C3%A9_Pu%27er_-_Lao_ban_zhang.jpg) |
 | Лапсанг Сушонг (копчений) | [настій](lapsang/liquor-672e5d06.webp) | mkniebes | CC0 | [посилання](https://www.flickr.com/photos/76696276@N00/43565629721) |
 | Лю Бао | [сухе листя](liubao/dry-c78f04a2.webp) | chadao | CC BY-SA 2.0 | [посилання](https://www.flickr.com/photos/32335956@N06/22227853272) |
 | Лю Бао | [настій](liubao/liquor-ea728fea.webp) | chadao | CC BY-SA 2.0 | [посилання](https://www.flickr.com/photos/32335956@N06/21619636163) |
@@ -24,7 +26,10 @@
 | Те Гуань Інь (світлий) | [сухе листя](tgy/dry-f4390765.webp) | Francesc Fort | CC BY-SA 4.0 | [посилання](https://commons.wikimedia.org/wiki/File:T%C3%A9_Tieguanyin.jpg) |
 | Те Гуань Інь (світлий) | [настій](tgy/liquor-d85e83c3.webp) | mkniebes | CC0 | [посилання](https://www.flickr.com/photos/76696276@N00/49278048737) |
 | Те Гуань Інь (світлий) | [розкрите листя](tgy/spent-730d1d6f.webp) | Yuya Tamai | CC BY 2.0 | [посилання](https://www.flickr.com/photos/76758469@N00/49376557063) |
+| Фу Чжуань | [сухе листя](fuzhuan/dry-e0d7b1fd.webp) | Kasuga | CC BY-SA 4.0 | [посилання](https://commons.wikimedia.org/wiki/File:Anhua_Fuzhuan_Fermented_Tea.jpg) |
 | Хуан Шань Мао Фен | [сухе листя](maofeng/dry-79233bc9.webp) | Qirille | CC BY-SA 4.0 | [посилання](https://commons.wikimedia.org/wiki/File:MaoFeng_tea_%E9%BB%84%E5%B1%B1%E6%AF%9B%E5%B3%B0.jpg) |
+| Цзінь Цзюнь Мей | [сухе листя](jinjunmei/dry-f4982915.webp) | Difference engine | CC BY-SA 4.0 | [посилання](https://commons.wikimedia.org/wiki/File:Jin_Jun_Mei.jpg) |
+| Цзінь Цзюнь Мей | [настій](jinjunmei/liquor-0b54e8db.webp) | Difference engine | CC BY-SA 4.0 | [посилання](https://commons.wikimedia.org/wiki/File:Small_tasting_cup_of_Jin_Jun_Mei.jpg) |
 | Ці Мень (Кімун) | [сухе листя](qimen/dry-6ff95e78.webp) | Whiteness | CC BY-SA 4.0 | [посилання](https://commons.wikimedia.org/wiki/File:Keemun_FOP_%281%29.JPG) |
 | Шен Пуер І У | [сухе листя](yiwu/dry-9bb65b9a.webp) | teajournaling | CC BY 2.0 | [посилання](https://www.flickr.com/photos/23270409@N05/2227590375) |
 | Шен Пуер І У | [настій](yiwu/liquor-182c7e7a.webp) | teajournaling | CC BY 2.0 | [посилання](https://www.flickr.com/photos/23270409@N05/2236407090) |

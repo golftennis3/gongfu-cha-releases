@@ -9,6 +9,15 @@
     "s": "https://www.flickr.com/photos/87117631@N00/30433708973"
    }
   ],
+  "baimudan": [
+   {
+    "a": "chaidrakon.ru",
+    "f": "baimudan/dry-7480c0a9.webp",
+    "k": "dry",
+    "l": "CC BY 3.0",
+    "s": "https://commons.wikimedia.org/wiki/File:Bai_Mudan.jpg"
+   }
+  ],
   "biluochun": [
    {
     "a": "Gary Soup",
@@ -36,6 +45,15 @@
     "s": "https://commons.wikimedia.org/wiki/File:Yunnan_Black_SFTGFOP_%281%29.JPG"
    }
   ],
+  "fuzhuan": [
+   {
+    "a": "Kasuga",
+    "f": "fuzhuan/dry-e0d7b1fd.webp",
+    "k": "dry",
+    "l": "CC BY-SA 4.0",
+    "s": "https://commons.wikimedia.org/wiki/File:Anhua_Fuzhuan_Fermented_Tea.jpg"
+   }
+  ],
   "gyokuro": [
    {
     "a": "Breville USA",
@@ -59,6 +77,31 @@
     "k": "liquor",
     "l": "CC BY 4.0",
     "s": "https://commons.wikimedia.org/wiki/File:Taiping_houkui_12.jpg"
+   }
+  ],
+  "jinjunmei": [
+   {
+    "a": "Difference engine",
+    "f": "jinjunmei/dry-f4982915.webp",
+    "k": "dry",
+    "l": "CC BY-SA 4.0",
+    "s": "https://commons.wikimedia.org/wiki/File:Jin_Jun_Mei.jpg"
+   },
+   {
+    "a": "Difference engine",
+    "f": "jinjunmei/liquor-0b54e8db.webp",
+    "k": "liquor",
+    "l": "CC BY-SA 4.0",
+    "s": "https://commons.wikimedia.org/wiki/File:Small_tasting_cup_of_Jin_Jun_Mei.jpg"
+   }
+  ],
+  "laobanzhang": [
+   {
+    "a": "Francesc Fort",
+    "f": "laobanzhang/dry-e3b6ef8d.webp",
+    "k": "dry",
+    "l": "CC BY-SA 4.0",
+    "s": "https://commons.wikimedia.org/wiki/File:T%C3%A9_Pu%27er_-_Lao_ban_zhang.jpg"
    }
   ],
   "lapsang": [
